@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+smsTransfer
+
+# Build directory
+build
